@@ -4,16 +4,16 @@ I'm a passionate **full-stack developer** and **AI researcher** with experience 
 I'm currently a **Bachelor of Mathematics** student at the University of Waterloo, actively exploring the fields of **data science**, **software development**, and **machine learning**.
 
 ## 🚀 Technologies & Tools
-- **Languages**: Python, JavaScript, C#, TypeScript, SQL, R, C, Clojure
+- **Languages**: Python, JavaScript, C#, TypeScript, SQL
 - **Frameworks**: Node.js, Express.js, React, MongoDB
-- **Tools**: Git, PyTorch, Hugging Face, Axolotl, AWS, Unity, Blender
+- **Tools**: Git, PyTorch, Hugging Face, Axolotl, AWS, Unity
 
 ## 🏆 Achievements
 - **UWaterloo DataFest 2024**: Honorable Mention for balancing insight and visualization in data analysis using R
 
 ## 🔧 Projects
 - **[MeowFit](https://github.com/AnnChangSal/meowfit)**: A full-stack application for tracking the health of multiple cats, built with Node.js, Express.js, React, and MongoDB.
-- **[Guide-U Chrome Extension](https://chromewebstore.google.com/detail/guideu/ofimbdkdlcmagbfaopaflccnegcoogph?hl=ko)**: Real-time video meme recognition with Whisper fine-tuned using PyTorch, YOLOv8 for facial detection.
+
 
 ## 📈 GitHub Stats
 ![Hyoeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnChangSal&show_icons=true&theme=radical)
