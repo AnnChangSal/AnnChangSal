@@ -1,9 +1,10 @@
-# Hi there, I'm Noa👋
+# Hi there, I'm [Noa](https://annchangsal.github.io/noa-8bit/)👋
 
 I'm a passionate **full-stack developer** and **AI researcher** with experience in building web applications, developing APIs, and working on AI-driven projects. 
 I'm currently a **Bachelor of Mathematics** student at the University of Waterloo, actively exploring the fields of **Data science**, **Software development**, and **Machine learning**.
 
 **(Did you know? AnnChangSal is an expensive beef part in Korean)**
+
 
 ## 🚀 Technologies & Tools
 - **Languages&FrameWorks**: Python, R, SQL, C, C#, C++, TypeScript, JavaScript, React, HTML/CSS, Clojure, Django, Flask, Dart, Flutter, TensorFlow, Node.js, Express.js, MATLAB
