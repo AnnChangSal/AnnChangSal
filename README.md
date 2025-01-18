@@ -34,6 +34,7 @@ I'm currently a **Bachelor of Mathematics** student at the University of Waterlo
 - Advanced machine learning techniques and cloud deployment strategies.
 - Exploring Python for functional programming and real-time applications.
 - Training OpenCV with custom images.
+- Learning Unity & C# to develop Games.
 
 ## 💬 Reach out
 - **LinkedIn**: [noa-chang](https://www.linkedin.com/in/noachang/)
