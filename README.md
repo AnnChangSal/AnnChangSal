@@ -22,6 +22,11 @@ I'm currently a **Bachelor of Mathematics** student at the University of Waterlo
 - **UWaterloo DataFest 2024**: Honorable Mention for balancing insight and visualization in data analysis using R
 - **UWaterloo President's Scholarship of Distinction**: AVG over 95%
 
+## 🎓 Credentials
+- **[Data Fundamentals(IBM)](https://www.credly.com/badges/a5a5570e-4fdf-49a1-a4df-b2449ffe9a52/public_url)**: **Key Skills** = Clean Data, Data Analysis. Data Analysis Process, Databases, Data Science, Data Science Methodology, Data Tools, Data Visualizations, Refine Data, Watson Studio
+- **[AI Foundations(IBM)](https://www.credly.com/badges/f826137f-1307-43ad-ad86-8fa74953a591/public_url)**: **Key Skills** = Applications Of Artificial Intelligence, Artificial Intelligence(AI), Design Thinking, Machine Learning(ML), Natural Language Processing(MLP)
+
+
 ## 🔧 Projects
 - **[still-unemployment](https://github.com/AnnChangSal/still-unemployment)**: Empowering job seekers with real-time insights to turn unemployment into opportunities using Python, web scraping, and data visualization.
 - **[give-me-opportunity](https://github.com/AnnChangSal/give-me-opportunity)**: A streamlined gateway to discover, filter, and apply for dream opportunities with ease, leveraging TypeScript, React, Node.js, and API integration.
@@ -35,6 +40,7 @@ I'm currently a **Bachelor of Mathematics** student at the University of Waterlo
 - Exploring Python for functional programming and real-time applications.
 - Training OpenCV with custom images.
 - Learning Unity & C# to develop Games.
+- More AI/Data Certifications.
 
 ## 💬 Reach out
 - **LinkedIn**: [noa-chang](https://www.linkedin.com/in/noachang/)
