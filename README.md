@@ -1,4 +1,4 @@
-# Hi there, I'm [Noa](https://annchangsal.github.io/noa-8bit/)👋
+# Hi there, I'm [Noa](https://annchangsal.github.io/noa-8bit/)👋 // **[Notion Blog&Portofolio](https://noa4chang.notion.site/) ✍️**
 
 I'm a passionate **full-stack developer** and **AI researcher** with experience in building web applications, developing APIs, and working on AI-driven projects. 
 I'm currently a **Bachelor of Mathematics** student at the University of Waterloo, actively exploring the fields of **Data science**, **Software development**, and **Machine learning**.
